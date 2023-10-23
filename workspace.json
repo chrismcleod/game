@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "utils-browser": "libs/utils/browser",
+    "winds": "apps/winds",
+    "winds-e2e": "apps/winds-e2e"
+  },
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json"
 }
